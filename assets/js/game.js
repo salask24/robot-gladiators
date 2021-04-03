@@ -176,7 +176,7 @@ var shop = function() {
   }
 };
 
-
+ 
 
 startGame();
 
